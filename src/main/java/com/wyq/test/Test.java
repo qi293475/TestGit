@@ -6,5 +6,7 @@ public class Test {
         Person person=new Person();
         System.out.println(person);
     }
-
+    public void show(){
+        System.out.println("俺老孙来也");
+    }
 }
