@@ -9,4 +9,7 @@ public class Test {
     public void show(){
         System.out.println("俺老孙来也");
     }
+    public void show2(){
+        System.out.println("俺老孙来也2");
+    }
 }
