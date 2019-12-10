@@ -15,4 +15,7 @@ public class Test {
     public void show3(){
         System.out.println("俺老孙来也2");
     }
+    public void show4(){
+        System.out.println("俺老孙来也2");
+    }
 }
