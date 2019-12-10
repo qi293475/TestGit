@@ -21,4 +21,7 @@ public class Test {
     public void show5(){
         System.out.println("俺老孙来也2");
     }
+    public void show6(){
+        System.out.println("俺老孙来也6");
+    }
 }
